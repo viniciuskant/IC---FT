@@ -1,0 +1,7 @@
+/home/kant/unicamp/BAS/BAS/Códigos/platformIO_espEscoamento/build/CMakeFiles/unity.dir
+/home/kant/unicamp/BAS/BAS/Códigos/platformIO_espEscoamento/build/CMakeFiles/edit_cache.dir
+/home/kant/unicamp/BAS/BAS/Códigos/platformIO_espEscoamento/build/CMakeFiles/rebuild_cache.dir
+/home/kant/unicamp/BAS/BAS/Códigos/platformIO_espEscoamento/build/CMakeFiles/list_install_components.dir
+/home/kant/unicamp/BAS/BAS/Códigos/platformIO_espEscoamento/build/CMakeFiles/install.dir
+/home/kant/unicamp/BAS/BAS/Códigos/platformIO_espEscoamento/build/CMakeFiles/install/local.dir
+/home/kant/unicamp/BAS/BAS/Códigos/platformIO_espEscoamento/build/CMakeFiles/install/strip.dir
